@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "commnent": "apple apple\n",
+      "date": "2022-07-12T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mano",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 5000,
+      "commnent": "mango mango",
+      "date": "2022-07-12T21:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
